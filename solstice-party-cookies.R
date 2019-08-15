@@ -8,11 +8,11 @@
   |Gingerbread| 1 |
   |Shortbread Cookies| 2 |
   |Blobs|6 |
-  |Thumbprint | 2 |
+  |Thumbprint | 10 |
   |Snickerdoodles|100|
   |Snowball| 1|
   |Peanutbutter| 3|
   |Whoopie Pie| 2|
   |Oatmeal Raisin| 2 |
-  |Peppermint Chocolate| 2 |
+  |Peppermint Chocolate| 15 |
   |Fortune Cookies| 13 |
